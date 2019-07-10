@@ -4529,8 +4529,8 @@ input, select, textarea {
 				#banner h1 {
 					font-size: 3rem;
 					padding-bottom: 3rem;
-					text-align-last: center;
-					text-align: center;
+					text-align-last: left;
+					text-align: left;
 				}
 
 				#banner .content p {
@@ -4554,10 +4554,10 @@ input, select, textarea {
 					}
 
 					#banner .content ul {
-						-moz-justify-content: center;
-						-webkit-justify-content: center;
-						-ms-justify-content: center;
-						justify-content: center;
+						-moz-justify-content: left;
+						-webkit-justify-content: left;
+						-ms-justify-content: left;
+						justify-content: left;
 					}
 
 		}
@@ -4596,8 +4596,8 @@ input, select, textarea {
 
 				#banner h1 {
 					padding-bottom: 2rem;
-					text-align-last: center;
-					text-align: center;
+					text-align-last: left;
+					text-align: left;
 				}
 
 				#banner .content {
