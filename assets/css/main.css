@@ -1883,6 +1883,7 @@ input, select, textarea {
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
+		border-radius: 0 !important;
 	}
 
 		input[type="submit"].icon,
@@ -2197,6 +2198,7 @@ input, select, textarea {
 		padding: 0 1rem;
 		text-decoration: none;
 		width: 100%;
+		border-radius: 0 !important;
 	}
 
 		input[type="text"]:invalid,
@@ -2336,6 +2338,7 @@ input, select, textarea {
 		border-top: none;
     border-left: none;
 		border-right: none;
+		border-radius: 0 !important;
 	}
 
 		input[type="text"]:focus,
